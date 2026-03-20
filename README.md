@@ -83,17 +83,17 @@ bold           = True
 ## 📦 الاستيرادات والتبعيات
  
 ```python
-from PySide6.QtWidgets import QWidget
-from all_data.core.theme.all_color_tool    import color
-from all_data.core.fonts.fonts_list        import fonts
-from all_data.core.fonts.size_fonts        import SizeFonts
-from all_data.image.Assets                 import Assets
-from all_data.core.utils.add_image         import add_image
-from all_data.core.utils.add_text          import add_text
-from all_data.core.utils.add_button        import add_button
-from all_data.core.utils.add_box           import add_box
-from all_data.core.utils.Basic_interface.Button_functions import btn
-from all_data.core.Settings.function       import Settings_function
+from PySide6.QtWidgets                                             import QWidget
+from all_data.core.theme.all_color_tool                            import color
+from all_data.core.fonts.fonts_list                                import fonts
+from all_data.core.fonts.size_fonts                                import SizeFonts
+from all_data.image.Assets                                         import Assets
+from all_data.core.utils.add_image                                 import add_image
+from all_data.core.utils.add_text                                  import add_text
+from all_data.core.utils.add_button                                import add_button
+from all_data.core.utils.add_box                                   import add_box
+from all_data.core.utils.Basic_interface.Button_functions          import btn
+from all_data.core.Settings.function                               import Settings_function
 ```
  
 ---
